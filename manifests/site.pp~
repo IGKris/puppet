@@ -1,0 +1,9 @@
+package{
+	'yum update':
+	allow_virtual => true,
+
+}
+
+
+
+
