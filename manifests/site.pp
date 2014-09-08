@@ -1,7 +1,7 @@
 package{
 	'httpd':
 	allow_virtual => true,
-	ensure => installed,
+	ensure => installed
 }
 
 service{
